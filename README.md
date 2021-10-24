@@ -7,8 +7,8 @@ MVC or Model-View-Controller is a pattern used in software design. This pattern 
 - **Controller :** Keeping view and model separate and control data flow into model object and updates the view whenever data changes.
 
 ## MVC Process :bar_chart:
-![MVC Process](img/MVC Process.jpg)
+![MVC Process](img/MVCProcess.jpg)
 
 ## MVC Pattern :triangular_ruler:
-![MVC Pattern](img/MVC Pattern Example.jpg)
+![MVC Pattern](img/MVCPattern.jpg)
 
